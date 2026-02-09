@@ -1,0 +1,19 @@
+{
+  "users": {
+    "101": {
+      "name": "Deepika",
+      "email": "deepika@gmail.com",
+      "createdAt": "2026-01-01"
+    },
+    "102": {
+      "name": "Ananya",
+      "email": "ananya@gmail.com",
+      "createdAt": "2026-01-02"
+    },
+    "103": {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "createdAt": "2026-01-03"
+    }
+  }
+}
